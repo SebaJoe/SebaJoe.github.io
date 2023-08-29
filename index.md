@@ -5,5 +5,6 @@
 layout: home
 ---
 
+![image](/IMG_3386.jpg)
 
 Hello, World 
