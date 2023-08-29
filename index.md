@@ -5,6 +5,5 @@
 layout: home
 ---
 
-![image](./IMG_3386.jpg){: style="float: left"}
 
-Hello
+Hello, World 
