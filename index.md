@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![profile](/IMG_3386.jpg){: height="300px" width="auto"}
+![profile](/IMG_3386.jpg){: height="300px" width="auto" style="float: left"}
 
 Hello, World 
