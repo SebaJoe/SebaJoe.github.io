@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![profile](/f559b167-cb7e-4609-8d4a-b941e924485e2.JPG){: height="150px" width="150px" style="float: left; border-radius: 300px; object-fit: cover; margin-right: 20px"}
+<> ![profile](/f559b167-cb7e-4609-8d4a-b941e924485e2.JPG){: height="150px" width="150px" style="float: left; border-radius: 300px; object-fit: cover; margin-right: 20px; padding: 10px"}
 
 Hello! My name is Sebastian Joseph and welcome to my homepage. 
 

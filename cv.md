@@ -5,4 +5,4 @@ permalink: /cv/
 ---
 
 
-Download my CV [here](/resume.pdf).
+Download my CV [here](/new_cv_spring_2024.pdf).
