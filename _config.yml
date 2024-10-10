@@ -14,19 +14,44 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sebastian Joseph
-email: sebyjoseph2015@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my website. Currently a work in progress. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sebajoed
-github_username:  SebaJoe
+title_separator: "|"
+name: Sebastian Joseph
+description: "Research Portfolio"
+masthead_title: "Sebastian Joseph"
+subtitle: Ph.D. Student
+
+
+author:
+  name: "Sebastian Joseph"
+  avatar: "f559b167-cb7e-4609-8d4a-b941e924485e2.JPG"
+  bio: "Office: GDC 5.818A"
+  location: "Austin, TX"
+  email: sebyjoseph2015@gmail.com
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://www.github.com/SebaJoe"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sebajoe"
+    - label: "Twitter/X"
+      icon: "fab fa-fw fa-twitter"
+      url: https://www.twitter.com/sebajoed
+
+
+
+
+
+
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
