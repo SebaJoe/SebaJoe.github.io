@@ -67,6 +67,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - custom.css
+
 
 custom_css:
   - /custom.css
