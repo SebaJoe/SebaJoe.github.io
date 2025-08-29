@@ -13,6 +13,12 @@ I am a first-year Ph.D. student at [The University of Texas at Austin](https://w
 My research interests lie in evaluating and refining large language models (LLMs) for expert and high-stakes domains, with an emphasis on factuality and understandability. 
 More broadly, I am interested in developing highly adaptable and trustworthy Artificial Intelligence systems that can be efficiently customized for specialized domains.
 
+## Industry Experience
+
+**Research Scientist/Engineer Intern, [Adobe Research](https://research.adobe.com/)**, *Summer 2025*
+- Manager: [Ani Nenkova](https://research.adobe.com/person/ani-nenkova/)
+- Mentors: [Jack Wang](https://zichaow.github.io/), [Jennifer Healey](https://research.adobe.com/person/jennifer-healey/), [Alexa Siu](https://research.adobe.com/person/alexa-siu/)
+
 ## Education
 
 <br>
