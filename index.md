@@ -5,6 +5,8 @@
 title: About
 layout: single
 author_profile: true
+header:
+        show_title: false
 ---
 
 > 七転び八起き <br> Nana korobi, ya oki <br> Fall down seven times, stand up eight
