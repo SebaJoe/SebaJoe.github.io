@@ -15,9 +15,7 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 
 ## Industry Experience
 
-<img src="/adobe.png" alt="adobe logo" width="50px">
-
-**Research Scientist/Engineer Intern, [Adobe Research](https://research.adobe.com/)**, *Summer 2025*
+<img src="/adobe.png" alt="adobe logo" width="50px">**Research Scientist/Engineer Intern, [Adobe Research](https://research.adobe.com/)**, *Summer 2025*
 - Manager: [Ani Nenkova](https://research.adobe.com/person/ani-nenkova/)
 - Mentors: [Jack Wang](https://zichaow.github.io/), [Jennifer Healey](https://research.adobe.com/person/jennifer-healey/), [Alexa Siu](https://research.adobe.com/person/alexa-siu/)
 
