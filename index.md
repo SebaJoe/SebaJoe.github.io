@@ -44,6 +44,10 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 
 ## Publications
 
+#### [AstroVisBench: A Code Benchmark for Scientific Computing and Visualization in Astronomy](https://arxiv.org/abs/2505.20538)
+***Sebastian Joseph**, Syed Murtaza Husain, Stella S. R. Offner, Stéphanie Juneau, Paul Torrey, Adam S. Bolton, Juan P. Farias, Niall Gaffney, Greg Durrett, Junyi Jessy Li*
+> [NeurIPS Benchmark and Dataset Track](https://openreview.net/forum?id=qXiTFAgEx4#discussion){: .btn .btn--success .btn--small} [Website](https://astrovisbench.github.io/){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2505.20538){: .btn .btn--info .btn--small}
+
 #### [FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence](https://aclanthology.org/2024.acl-long.459/) 
 ***Sebastian Joseph**\*, Lily Chen\*, Jan Trienes, Hannah Louisa Göke, Monika Coers, Wei Xu, Byron C Wallace, Junyi Jessy Li*
 > [ACL 2024 Main Long Paper](https://aclanthology.org/2024.acl-long.459/){: .btn .btn--success .btn--small} [Code](https://github.com/lilywchen/FactPICO){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2402.11456){: .btn .btn--info .btn--small} [OpenReview](https://openreview.net/forum?id=VUvcsUUmeO){: .btn .btn--info .btn--small}
@@ -61,10 +65,6 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 > [ACL 2023 Main Short Paper](https://aclanthology.org/2023.acl-short.119/){: .btn .btn--success .btn--small} [Code](https://github.com/cshaib/summarizing-medical-evidence){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2305.06299){: .btn .btn--info .btn--small}
 
 ### Preprints
-
-#### [AstroVisBench: A Code Benchmark for Scientific Computing and Visualization in Astronomy](https://arxiv.org/abs/2505.20538)
-***Sebastian Joseph**, Syed Murtaza Husain, Stella S. R. Offner, Stéphanie Juneau, Paul Torrey, Adam S. Bolton, Juan P. Farias, Niall Gaffney, Greg Durrett, Junyi Jessy Li*
-> [Website](https://astrovisbench.github.io/){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2505.20538){: .btn .btn--info .btn--small}
 
 #### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://arxiv.org/abs/2506.20876)
 ***Sebastian Joseph**, Lily Chen, Barry Wei, Michael Mackert, Iain J. Marshall, Paul Pu Liang, Ramez Kouzy, Byron C. Wallace, Junyi Jessy Li*
