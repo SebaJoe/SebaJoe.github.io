@@ -17,7 +17,7 @@ classes: hide-title
 
 > 七転び八起き <br> Nana korobi, ya oki <br> Fall down seven times, stand up eight
 
-I am a first-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) being advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
+I am a second-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) being advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
 
 My research interests lie in evaluating and refining large language models (LLMs) for expert and high-stakes domains, with an emphasis on factuality and understandability. 
 More broadly, I am interested in developing highly adaptable and trustworthy Artificial Intelligence systems that can be efficiently customized for specialized domains.
