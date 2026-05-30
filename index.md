@@ -15,7 +15,6 @@ classes: hide-title
 }
 </style>
 
-> 七転び八起き <br> Nana korobi, ya oki <br> Fall down seven times, stand up eight
 
 I am a second-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) being advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
 
@@ -44,6 +43,11 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 
 ## Publications
 
+
+#### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://arxiv.org/abs/2506.20876)
+***Sebastian Joseph**, Lily Chen, Barry Wei, Michael Mackert, Iain J. Marshall, Paul Pu Liang, Ramez Kouzy, Byron C. Wallace, Junyi Jessy Li*
+> [ACL 2026 Findings](https://openreview.net/forum?id=vxALqhl1hf#discussion) [Code/Data](https://github.com/SebaJoe/decide-less-communicate-more){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2506.20876){: .btn .btn--info .btn--small}
+
 #### [AstroVisBench: A Code Benchmark for Scientific Computing and Visualization in Astronomy](https://arxiv.org/abs/2505.20538)
 ***Sebastian Joseph**, Syed Murtaza Husain, Stella S. R. Offner, Stéphanie Juneau, Paul Torrey, Adam S. Bolton, Juan P. Farias, Niall Gaffney, Greg Durrett, Junyi Jessy Li*
 > [NeurIPS 2025 Benchmark and Dataset Track](https://openreview.net/forum?id=qXiTFAgEx4#discussion){: .btn .btn--success .btn--small} [Website](https://astrovisbench.github.io/){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2505.20538){: .btn .btn--info .btn--small}
@@ -64,8 +68,5 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 *Chantal Shaib, Millicent Li, **Sebastian Joseph**, Iain Marshall, Junyi Jessy Li, Byron Wallace*
 > [ACL 2023 Main Short Paper](https://aclanthology.org/2023.acl-short.119/){: .btn .btn--success .btn--small} [Code](https://github.com/cshaib/summarizing-medical-evidence){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2305.06299){: .btn .btn--info .btn--small}
 
-### Preprints
+<!-- ### Preprints ->
 
-#### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://arxiv.org/abs/2506.20876)
-***Sebastian Joseph**, Lily Chen, Barry Wei, Michael Mackert, Iain J. Marshall, Paul Pu Liang, Ramez Kouzy, Byron C. Wallace, Junyi Jessy Li*
-> [Code/Data](https://github.com/SebaJoe/decide-less-communicate-more){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2506.20876){: .btn .btn--info .btn--small}
