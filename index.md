@@ -46,7 +46,7 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 
 #### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://arxiv.org/abs/2506.20876)
 ***Sebastian Joseph**, Lily Chen, Barry Wei, Michael Mackert, Iain J. Marshall, Paul Pu Liang, Ramez Kouzy, Byron C. Wallace, Junyi Jessy Li*
-> [ACL 2026 Findings](https://openreview.net/forum?id=vxALqhl1hf#discussion) [Code/Data](https://github.com/SebaJoe/decide-less-communicate-more){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2506.20876){: .btn .btn--info .btn--small}
+> [ACL 2026 Findings](https://openreview.net/forum?id=vxALqhl1hf#discussion){: .btn .btn--success .btn--small} [Code/Data](https://github.com/SebaJoe/decide-less-communicate-more){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2506.20876){: .btn .btn--info .btn--small}
 
 #### [AstroVisBench: A Code Benchmark for Scientific Computing and Visualization in Astronomy](https://arxiv.org/abs/2505.20538)
 ***Sebastian Joseph**, Syed Murtaza Husain, Stella S. R. Offner, Stéphanie Juneau, Paul Torrey, Adam S. Bolton, Juan P. Farias, Niall Gaffney, Greg Durrett, Junyi Jessy Li*
@@ -68,5 +68,8 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 *Chantal Shaib, Millicent Li, **Sebastian Joseph**, Iain Marshall, Junyi Jessy Li, Byron Wallace*
 > [ACL 2023 Main Short Paper](https://aclanthology.org/2023.acl-short.119/){: .btn .btn--success .btn--small} [Code](https://github.com/cshaib/summarizing-medical-evidence){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2305.06299){: .btn .btn--info .btn--small}
 
-<!-- ### Preprints ->
+### Preprints
 
+#### [AI-Assisted Peer Review at Scale: The AAAI-26 AI Review Pilot](https://arxiv.org/abs/2604.13940)
+*Joydeep Biswas, Sheila Schoepp, Gautham Vasan, Anthony Opipari, Arthur Zhang, Zichao Hu, **Sebastian Joseph**, Matthew Lease, Junyi Jessy Li, Peter Stone, Kiri L. Wagstaff, Matthew E. Taylor, Odest Chadwicke Jenkins*
+> [ArXiv](https://arxiv.org/abs/2604.13940){: .btn .btn--info .btn--small}
