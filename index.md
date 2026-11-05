@@ -16,14 +16,14 @@ classes: hide-title
 </style>
 
 
-I am a second-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) being advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
+I am a third-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) being advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
 
-My research interests lie in evaluating and refining large language models (LLMs) for expert and high-stakes domains, with an emphasis on factuality and understandability. 
-More broadly, I am interested in developing highly adaptable and trustworthy Artificial Intelligence systems that can be efficiently customized for specialized domains.
+My research interests lie in evaluating and refining large language models (LLMs) for expert and high-stakes domains.
+I am particularly interested in research surrounding **AI for Science** and the ability to learn tacit knowledge from experts. 
 
 ## Industry Experience
 
-<img src="/adobe.png" alt="adobe logo" width="50px">**Research Scientist/Engineer Intern, [Adobe Research](https://research.adobe.com/)**, *Summer 2025*
+<img src="/adobe.png" alt="adobe logo" width="50px">**Research Scientist/Engineer Intern, [Adobe Research](https://research.adobe.com/)**, *Summer 2025 & Summer 2026*
 - Manager: [Ani Nenkova](https://research.adobe.com/person/ani-nenkova/)
 - Mentors: [Jack Wang](https://zichaow.github.io/), [Jennifer Healey](https://research.adobe.com/person/jennifer-healey/), [Alexa Siu](https://research.adobe.com/person/alexa-siu/)
 
@@ -43,6 +43,14 @@ More broadly, I am interested in developing highly adaptable and trustworthy Art
 
 ## Publications
 
+
+#### [Generating Edit-Inducing Questions for AI Research Manuscripts](https://arxiv.org/abs/2609.36617)
+***Sebastian Joseph**, Zichao Wang, Jennifer Healey, Alexa Siu, Junyi Jessy Li, Ani Nenkova*
+> [DocInsights Workshop @ EMNLP 2026](https://arxiv.org/abs/2609.36617){: .btn .btn--success .btn--small} [ArXiv](https://arxiv.org/abs/2609.36617){: .btn .btn--info .btn--small}
+
+#### [LinkNav: Surfacing Interconnected Information in Scientific Articles](https://aclanthology.org/2026.acl-demo.45/)
+***Sebastian Joseph**, Jennifer Healey, Junyi Jessy Li, Ani Nenkova*
+> [ACL 2026 System Demonstrations](https://aclanthology.org/2026.acl-demo.45/){: .btn .btn--success .btn--small} [PDF](https://aclanthology.org/2026.acl-demo.45.pdf){: .btn .btn--info .btn--small}
 
 #### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://arxiv.org/abs/2506.20876)
 ***Sebastian Joseph**, Lily Chen, Barry Wei, Michael Mackert, Iain J. Marshall, Paul Pu Liang, Ramez Kouzy, Byron C. Wallace, Junyi Jessy Li*
