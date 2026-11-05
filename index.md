@@ -16,10 +16,11 @@ classes: hide-title
 </style>
 
 
-I am a third-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) being advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
+I am a third-year Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu) advised by Professor [Junyi Jessy Li](https://www.jessyli.com).
 
-My research interests lie in evaluating and refining large language models (LLMs) for expert and high-stakes domains.
-I am particularly interested in research surrounding **AI for Science** and the ability to learn tacit knowledge from experts. 
+My research interests lie in evaluating and developing AI systems to be used in expert and high-stakes domains.
+I am particularly interested in research surrounding **AI for Science** and the ability to learn tacit knowledge inherent within niche fields. 
+I also aim to build effective and responsible AI applications, ensuring that AI-generated content is factual and understandable while guarding against side effects such as over-reliance and skill erosion.
 
 ## Industry Experience
 
@@ -43,6 +44,10 @@ I am particularly interested in research surrounding **AI for Science** and the 
 
 ## Publications
 
+
+#### [VESTA: Visual Exploration with Statistical Tool Agents](https://arxiv.org/abs/2606.00384)
+*William Rudman, Abhishek Divekar, Kanishk Jain, **Sebastian Joseph**, Stella S. R. Offner, Matthew Lease, Kyle Mahowald, Greg Durrett, Junyi Jessy Li*
+> [NeurIPS 2026](https://arxiv.org/abs/2606.00384){: .btn .btn--success .btn--small} [Code](https://github.com/wrudman/VESTA){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2606.00384){: .btn .btn--info .btn--small}
 
 #### [Generating Edit-Inducing Questions for AI Research Manuscripts](https://arxiv.org/abs/2609.36617)
 ***Sebastian Joseph**, Zichao Wang, Jennifer Healey, Alexa Siu, Junyi Jessy Li, Ani Nenkova*
