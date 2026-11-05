@@ -49,17 +49,13 @@ I also aim to build effective and responsible AI applications, ensuring that AI-
 *William Rudman, Abhishek Divekar, Kanishk Jain, **Sebastian Joseph**, Stella S. R. Offner, Matthew Lease, Kyle Mahowald, Greg Durrett, Junyi Jessy Li*
 > [NeurIPS 2026](https://arxiv.org/abs/2606.00384){: .btn .btn--success .btn--small} [Code](https://github.com/wrudman/VESTA){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2606.00384){: .btn .btn--info .btn--small}
 
-#### [Generating Edit-Inducing Questions for AI Research Manuscripts](https://arxiv.org/abs/2609.36617)
-***Sebastian Joseph**, Zichao Wang, Jennifer Healey, Alexa Siu, Junyi Jessy Li, Ani Nenkova*
-> [DocInsights Workshop @ EMNLP 2026](https://arxiv.org/abs/2609.36617){: .btn .btn--success .btn--small} [ArXiv](https://arxiv.org/abs/2609.36617){: .btn .btn--info .btn--small}
-
 #### [LinkNav: Surfacing Interconnected Information in Scientific Articles](https://aclanthology.org/2026.acl-demo.45/)
 ***Sebastian Joseph**, Jennifer Healey, Junyi Jessy Li, Ani Nenkova*
-> [ACL 2026 System Demonstrations](https://aclanthology.org/2026.acl-demo.45/){: .btn .btn--success .btn--small} [PDF](https://aclanthology.org/2026.acl-demo.45.pdf){: .btn .btn--info .btn--small}
+> [ACL 2026 System Demonstrations](https://aclanthology.org/2026.acl-demo.45/){: .btn .btn--success .btn--small} [PDF](https://aclanthology.org/2026.acl-demo.45.pdf){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2606.06650){: .btn .btn--info .btn--small}
 
-#### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://arxiv.org/abs/2506.20876)
+#### [Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine](https://aclanthology.org/2026.findings-acl.496/)
 ***Sebastian Joseph**, Lily Chen, Barry Wei, Michael Mackert, Iain J. Marshall, Paul Pu Liang, Ramez Kouzy, Byron C. Wallace, Junyi Jessy Li*
-> [ACL 2026 Findings](https://openreview.net/forum?id=vxALqhl1hf#discussion){: .btn .btn--success .btn--small} [Code/Data](https://github.com/SebaJoe/decide-less-communicate-more){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2506.20876){: .btn .btn--info .btn--small}
+> [ACL 2026 Findings](https://aclanthology.org/2026.findings-acl.496/){: .btn .btn--success .btn--small} [Code/Data](https://github.com/SebaJoe/decide-less-communicate-more){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2506.20876){: .btn .btn--info .btn--small}
 
 #### [AstroVisBench: A Code Benchmark for Scientific Computing and Visualization in Astronomy](https://arxiv.org/abs/2505.20538)
 ***Sebastian Joseph**, Syed Murtaza Husain, Stella S. R. Offner, Stéphanie Juneau, Paul Torrey, Adam S. Bolton, Juan P. Farias, Niall Gaffney, Greg Durrett, Junyi Jessy Li*
@@ -80,6 +76,12 @@ I also aim to build effective and responsible AI applications, ensuring that AI-
 #### [Summarizing, Simplifying, and Synthesizing Medical Evidence using GPT-3 (with Varying Success)](https://aclanthology.org/2023.acl-short.119/)
 *Chantal Shaib, Millicent Li, **Sebastian Joseph**, Iain Marshall, Junyi Jessy Li, Byron Wallace*
 > [ACL 2023 Main Short Paper](https://aclanthology.org/2023.acl-short.119/){: .btn .btn--success .btn--small} [Code](https://github.com/cshaib/summarizing-medical-evidence){: .btn .btn--info .btn--small} [ArXiv](https://arxiv.org/abs/2305.06299){: .btn .btn--info .btn--small}
+
+### Workshop Papers
+
+#### [Generating Edit-Inducing Questions for AI Research Manuscripts](https://arxiv.org/abs/2609.36617)
+***Sebastian Joseph**, Zichao Wang, Jennifer Healey, Alexa Siu, Junyi Jessy Li, Ani Nenkova*
+> [DocInsights Workshop @ EMNLP 2026](https://arxiv.org/abs/2609.36617){: .btn .btn--success .btn--small} [ArXiv](https://arxiv.org/abs/2609.36617){: .btn .btn--info .btn--small}
 
 ### Preprints
 
